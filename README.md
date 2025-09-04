@@ -2,7 +2,7 @@
 
 ## ✨ Structured systems. Soulful routines. Scalable impact.
 
-Welcome! I’m a seasoned database architect, developer, and governance strategist with a passion for building resilient systems and intentional workflows. Whether I’m optimizing SQL Server performance, automating ETL pipelines, or layering Six Sigma into legacy-to-cloud migrations, I bring clarity, care, and continuity to every project.
+Welcome! I’m a seasoned database administrator, developer, and governance strategist with a passion for building resilient systems and intentional workflows. Whether I’m optimizing SQL Server performance, automating ETL pipelines, or layering Six Sigma into legacy-to-cloud migrations, I bring clarity, care, and continuity to every project.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/lynettebuckley) • [GitHub Projects](#) • [Python Learning Tracker](#)
 
